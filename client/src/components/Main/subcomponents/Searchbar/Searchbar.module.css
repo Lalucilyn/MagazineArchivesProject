@@ -1,0 +1,8 @@
+.Searchbar {
+	width: 100%;
+	background: white;
+	height: 3rem;
+	margin-bottom: 1rem;
+	border-radius: var(--borderradius);
+	box-shadow: var(--boxshadow);
+}

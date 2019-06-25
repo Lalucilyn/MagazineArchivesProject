@@ -1,0 +1,17 @@
+
+.Filters {
+	background-color: white;
+	border-radius: var(--borderradius);
+	box-shadow: var(--boxshadow);
+	width: 100%;
+	height: 3rem;
+	margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 780px) {
+	.Filters {
+		width: 20%;
+		margin-bottom: 0;
+		height: auto;
+	}
+}

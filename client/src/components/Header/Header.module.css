@@ -1,0 +1,7 @@
+.Header {
+	height: 4rem;
+	background: var(--primary);
+	box-shadow: var(--boxshadow);
+	color: white;
+	position: relative;
+}

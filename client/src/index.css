@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+:root {
+	--primary: #006064;
+	--primarylight: #428e92;
+	--primarydark: #00363a;
+	--secondary: #bf360c;
+	--secondarylight: #f9683a;
+	--secondarydark: #870000;
+	--gray: #bdbdbd;
+	--borderradius: 4px;
+	--boxshadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+};
+
+html {
+	font-size: 16px;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto Condensed', sans-serif;
+}
